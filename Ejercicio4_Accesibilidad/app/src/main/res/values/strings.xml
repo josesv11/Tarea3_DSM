@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Woof</string>
+
+    <!-- Datos existentes (dejanos igual si querés) -->
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+
+    <string name="dog_description_1">Comer premios en la terraza</string>
+    <string name="dog_description_2">Ladrar a papá</string>
+    <string name="dog_description_3">Robar medias</string>
+    <string name="dog_description_4">Conocer animales nuevos</string>
+    <string name="dog_description_5">Hurgar en el jardín</string>
+    <string name="dog_description_6">Correr detrás de la espuma del mar</string>
+    <string name="dog_description_7">Molestar a sus humanos</string>
+    <string name="dog_description_8">Tomar sol</string>
+    <string name="dog_description_9">Dormir en lugares peligrosos</string>
+
+    <string name="about">Acerca de:</string>
+    <string name="years_old">%d años</string>
+
+    <!-- ACCESIBILIDAD / TALKBACK -->
+    <!-- Foto del perro -->
+    <string name="dog_photo_cd">Foto de %1$s</string>
+
+    <!-- Descripción compacta del item (se anuncia al enfocar la tarjeta) -->
+    <string name="dog_item_cd">%1$s, %2$d años. %3$s.</string>
+
+    <!-- Estado de expansión -->
+    <string name="state_expanded">Expandido</string>
+    <string name="state_collapsed">Contraído</string>
+
+    <!-- Acción del botón segun estado -->
+    <string name="expand_button_content_description_expand">Mostrar más sobre %1$s</string>
+    <string name="expand_button_content_description_collapse">Mostrar menos sobre %1$s</string>
+
+    <!-- (Opcional) acciones rápidas para TalkBack custom -->
+    <string name="expand_item_action">Mostrar más</string>
+    <string name="collapse_item_action">Mostrar menos</string>
+</resources>
